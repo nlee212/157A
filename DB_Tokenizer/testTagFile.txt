@@ -1,0 +1,32 @@
+<ParaStyle:Division>ADVERTISING
+<ParaStyle:Course>ADV 091	Intro Advertising	01	40009	3			LEC		97	65/70	MW	1500-1615	08/21/13-12/09/13	DBH 133	R Nelson
+<ParaStyle:Course>ADV 091	Intro Advertising	02	43949	3			LEC		97	60/70	TR	1500-1615	08/21/13-12/09/13	DBH 133	J Delacruz
+<ParaStyle:Course>ADV 116	Spartan Daily Ad Staff	01	40010	3			ACT		53	7/30	MTWR	1330-1615	08/21/13-12/09/13	DBH 209I	T Hendrick
+<ParaStyle:CourseNight>ADV 121	Consumer Advertising	01	44997	3			LEC			35/30	T	1800-2045	08/21/13-12/09/13	DBH 133	S Eckstone
+<ParaStyle:Course>ADV 122	Bus-to-Bus Advertising	01	42761	3			SEM		53	17/16	MW	1200-1315	08/21/13-12/09/13	DBH 213	R Nelson
+<ParaStyle:CourseNight>ADV 123	Brdcast & New Media Adv	01	40011	3			SEM		53,97	37/40	M	1800-2045	08/21/13-12/09/13	DBH 133	S Eckstone
+<ParaStyle:Course>ADV 124	Copywriting	01	40012	3			SEM		53,91	16/20	TR	1330-1445	08/21/13-12/09/13	DBH 107	J Delacruz
+<ParaStyle:Course>ADV 125	Ad Layout & Prod	01	41312	3			SEM		53	19/20	MW	1630-1745	08/21/13-12/09/13	DBH 222	J Delacruz
+<ParaStyle:Course>ADV 126	Media Planning & Buying	01	46416	3			SEM		97	17/26	TR	1630-1745	08/21/13-12/09/13	DBH 107	T Hendrick
+<ParaStyle:CourseNight>ADV 128	Integrtd Mktg Comm	01	40013	3			SEM		53	18/26	M	1800-2045	08/21/13-12/09/13	DBH 225	T Hendrick
+<ParaStyle:Course>ADV 129	Campaigns Mgmt	01	46417	3			SEM		97	31/30	MW	1030-1145	08/21/13-12/09/13	DBH 225	J Delacruz
+<ParaStyle:Division>AEROSPACE ENGINEERING
+<ParaStyle:Course>AE 110	Space System Engr	01	48670	3			SEM			20/30	MW	0900-0950	08/21/13-12/09/13	ENG 272	P Papadopoulos
+<ParaStyle:Course>AE 110	Space System Engr	02	48675	0			LAB			20/30	TBA	TBA	08/21/13-12/09/13		P Papadopoulos
+<ParaStyle:Course>AE 160	Aerodynamics I	01	43245	3			LEC			64/60	TR	1500-1615	08/21/13-12/09/13	ENG 331	N Mourtos
+<ParaStyle:Course>AE 164	Compressible Flow	01	40014	3			SEM			61/50	TR	1630-1720	08/21/13-12/09/13	CL 310	N Mourtos
+<ParaStyle:Course>AE 164	Compressible Flow	02	43950	0			LAB			61/50	TBA	TBA	08/21/13-12/09/13	ENG 164	N Mourtos
+<ParaStyle:Course>AE 167	Propulsion	02	49517	3			SEM			55/60	MW	1630-1745	08/21/13-12/09/13	ENG 329	M Murbach
+<ParaStyle:Course>AE 168	Aero Vehicle Control	02	48547	3			SEM		97	42/60	MW	1030-1145	08/21/13-12/09/13	ENG 331	K Turkoglu
+<ParaStyle:Course>AE 171A	Aircraft Design I	01	43371	3			LAB			24/30	F	0900-1145	08/21/13-12/09/13	ENG 164	G Mendoza
+<ParaStyle:CourseNight>AE 172A	Spacecraft Design I	01	41398	3			LAB			22/30	T	1930-2215	08/21/13-12/09/13	ENG 272	P Papadopoulos
+<ParaStyle:CourseNight>AE 180	Individual Studies	01	41414	3			SUP			1/20	R	1800-1945	08/21/13-12/09/13		N Mourtos
+<ParaStyle:Course>AE 198	Technology & Civil	01	49003	3	@		LEC	V	101	12/100	TBA	TBA	08/21/13-12/09/13		P Backer
+<ParaStyle:CourseNight>AE 246	Ad Adrft Stab Con	03	49580	3			LEC			22/30	M	1800-2045	08/21/13-12/09/13	ENG 164	K Turkoglu
+<ParaStyle:Course>AE 269	Advanced CFD	01	48672	3			SEM			24/30	T	1630-1845	08/21/13-12/09/13	ENG 272	P Papadopoulos
+<ParaStyle:Course>AE 269	Advanced CFD	02	48676	0			LAB			24/30	TBA	TBA	08/21/13-12/09/13		P Papadopoulos
+<ParaStyle:Course>AE 271	Adv Air Design	01	47840	3			LEC			21/30	F	1330-1615	08/21/13-12/09/13	ENG 301	G Mendoza
+<ParaStyle:CourseNight>AE 295A	Project I	01	43489	3			SUP			8/10	R	1800-1945	08/21/13-12/09/13	ENG 164	N Mourtos
+<ParaStyle:CourseNight>AE 295B	Project II	01	43490	3			SUP			5/10	R	1800-1945	08/21/13-12/09/13	ENG 164	N Mourtos
+<ParaStyle:CourseNight>AE 298	Spec Proj in Aerospace Engr	02	48550	3			SUP			3/10	F	1800-1945	08/21/13-12/09/13	ENG 164	N Mourtos
+<ParaStyle:CourseNight>AE 299	Thesis	01	42716	3			SUP			2/10	R	1800-1945	08/21/13-12/09/13	ENG 164	N Mourtos
